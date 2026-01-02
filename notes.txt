@@ -1,1 +1,8 @@
- 
+Git Version Control Lab
+
+This project demonstrates:
+- Git initialization
+- File tracking and commits
+- Branch creation and merging
+- Merge conflict resolution
+- Using GitHub as a remote repository 
